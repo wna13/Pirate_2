@@ -4,6 +4,60 @@
     "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/Assembly-CSharp.csproj": {}
   },
   "projects": {
+    "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/AllIn1SpriteShaderAssembly.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/AllIn1SpriteShaderAssembly.csproj",
+        "projectName": "AllIn1SpriteShaderAssembly",
+        "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/AllIn1SpriteShaderAssembly.csproj",
+        "packagesPath": "/Users/jungwanchoi/.nuget/packages/",
+        "outputPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/Temp/obj/AllIn1SpriteShaderAssembly/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jungwanchoi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/Assembly-CSharp.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -25,7 +79,544 @@
         "frameworks": {
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/AllIn1SpriteShaderAssembly.csproj": {
+                "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/AllIn1SpriteShaderAssembly.csproj"
+              },
+              "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/KinoBloom.Runtime.csproj": {
+                "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/KinoBloom.Runtime.csproj"
+              },
+              "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/MaxSdk.Scripts.csproj": {
+                "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/MaxSdk.Scripts.csproj"
+              },
+              "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/MaxSdk.Scripts.IntegrationManager.Editor.csproj": {
+                "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/MaxSdk.Scripts.IntegrationManager.Editor.csproj"
+              },
+              "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/SoftMask-Editor.csproj": {
+                "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/SoftMask-Editor.csproj"
+              },
+              "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/SoftMask.csproj": {
+                "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/SoftMask.csproj"
+              },
+              "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Demo.Editor.csproj": {
+                "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Demo.Editor.csproj"
+              },
+              "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Editor.csproj": {
+                "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Editor.csproj"
+              },
+              "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Runtime.csproj": {
+                "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Runtime.csproj"
+              },
+              "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro2.Demo.csproj": {
+                "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro2.Demo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/KinoBloom.Runtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/KinoBloom.Runtime.csproj",
+        "projectName": "KinoBloom.Runtime",
+        "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/KinoBloom.Runtime.csproj",
+        "packagesPath": "/Users/jungwanchoi/.nuget/packages/",
+        "outputPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/Temp/obj/KinoBloom.Runtime/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jungwanchoi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
             "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/MaxSdk.Scripts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/MaxSdk.Scripts.csproj",
+        "projectName": "MaxSdk.Scripts",
+        "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/MaxSdk.Scripts.csproj",
+        "packagesPath": "/Users/jungwanchoi/.nuget/packages/",
+        "outputPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/Temp/obj/MaxSdk.Scripts/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jungwanchoi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/MaxSdk.Scripts.IntegrationManager.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/MaxSdk.Scripts.IntegrationManager.Editor.csproj",
+        "projectName": "MaxSdk.Scripts.IntegrationManager.Editor",
+        "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/MaxSdk.Scripts.IntegrationManager.Editor.csproj",
+        "packagesPath": "/Users/jungwanchoi/.nuget/packages/",
+        "outputPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/Temp/obj/MaxSdk.Scripts.IntegrationManager.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jungwanchoi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/MaxSdk.Scripts.csproj": {
+                "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/MaxSdk.Scripts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/SoftMask-Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/SoftMask-Editor.csproj",
+        "projectName": "SoftMask-Editor",
+        "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/SoftMask-Editor.csproj",
+        "packagesPath": "/Users/jungwanchoi/.nuget/packages/",
+        "outputPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/Temp/obj/SoftMask-Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jungwanchoi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/SoftMask.csproj": {
+                "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/SoftMask.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/SoftMask.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/SoftMask.csproj",
+        "projectName": "SoftMask",
+        "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/SoftMask.csproj",
+        "packagesPath": "/Users/jungwanchoi/.nuget/packages/",
+        "outputPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/Temp/obj/SoftMask/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jungwanchoi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Demo.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Demo.Editor.csproj",
+        "projectName": "ToonyColorsPro.Demo.Editor",
+        "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Demo.Editor.csproj",
+        "packagesPath": "/Users/jungwanchoi/.nuget/packages/",
+        "outputPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/Temp/obj/ToonyColorsPro.Demo.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jungwanchoi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/KinoBloom.Runtime.csproj": {
+                "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/KinoBloom.Runtime.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Editor.csproj",
+        "projectName": "ToonyColorsPro.Editor",
+        "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Editor.csproj",
+        "packagesPath": "/Users/jungwanchoi/.nuget/packages/",
+        "outputPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/Temp/obj/ToonyColorsPro.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jungwanchoi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Runtime.csproj": {
+                "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Runtime.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Runtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Runtime.csproj",
+        "projectName": "ToonyColorsPro.Runtime",
+        "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Runtime.csproj",
+        "packagesPath": "/Users/jungwanchoi/.nuget/packages/",
+        "outputPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/Temp/obj/ToonyColorsPro.Runtime/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jungwanchoi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro2.Demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro2.Demo.csproj",
+        "projectName": "ToonyColorsPro2.Demo",
+        "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro2.Demo.csproj",
+        "packagesPath": "/Users/jungwanchoi/.nuget/packages/",
+        "outputPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/Temp/obj/ToonyColorsPro2.Demo/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jungwanchoi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Runtime.csproj": {
+                "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Runtime.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

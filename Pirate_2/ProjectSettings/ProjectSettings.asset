@@ -168,7 +168,7 @@ PlayerSettings:
   applicationIdentifier:
     Android: com.UnityTechnologies.Mobile3DTemplate
     Standalone: com.UnityTechnologies.Mobile3DTemplate
-    iPhone: com.UnityTechnologies.Mobile3DTemplate
+    iPhone: com.Sept09.Pirateio
   buildNumber:
     Standalone: 0
     VisionOS: 0

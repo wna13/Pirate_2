@@ -23,7 +23,7 @@
   </PropertyGroup>
   <PropertyGroup>
     <NoWarn>0169;USG0001</NoWarn>
-    <DefineConstants>UNITY_6000_0_57;UNITY_6000_0;UNITY_6000;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2023_1_OR_NEWER;UNITY_2023_2_OR_NEWER;UNITY_2023_3_OR_NEWER;UNITY_6000_0_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_MARSHALLING_TESTS;ENABLE_VIDEO;ENABLE_NAVIGATION_OFFMESHLINK_TO_NAVMESHLINK;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;TEXTCORE_1_0_OR_NEWER;EDITOR_ONLY_NAVMESH_BUILDER_DEPRECATED;PLATFORM_STANDALONE_OSX;PLATFORM_STANDALONE;UNITY_STANDALONE_OSX;UNITY_STANDALONE;ENABLE_GAMECENTER;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;ENABLE_SPATIALTRACKING;PLATFORM_HAS_CUSTOM_MUTEX;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_MONO;NET_4_6;NET_UNITY_4_8;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_EDITOR_ONLY_COMPILATION</DefineConstants>
+    <DefineConstants>UNITY_6000_0_57;UNITY_6000_0;UNITY_6000;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_2022_1_OR_NEWER;UNITY_2022_2_OR_NEWER;UNITY_2022_3_OR_NEWER;UNITY_2023_1_OR_NEWER;UNITY_2023_2_OR_NEWER;UNITY_2023_3_OR_NEWER;UNITY_6000_0_OR_NEWER;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_EDITOR_GAME_SERVICES;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_GENERATE_NATIVE_PLUGINS_FOR_ASSEMBLIES_API;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_MARSHALLING_TESTS;ENABLE_VIDEO;ENABLE_NAVIGATION_OFFMESHLINK_TO_NAVMESHLINK;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;ENABLE_ACCESSIBILITY;TEXTCORE_1_0_OR_NEWER;EDITOR_ONLY_NAVMESH_BUILDER_DEPRECATED;ENABLE_RUNTIME_GI;ENABLE_GAMECENTER;ENABLE_NETWORK;ENABLE_IOS_ON_DEMAND_RESOURCES;ENABLE_IOS_APP_SLICING;PLAYERCONNECTION_LISTENS_FIXED_PORT;DEBUGGER_LISTENS_FIXED_PORT;PLATFORM_SUPPORTS_ADS_ID;SUPPORT_ENVIRONMENT_VARIABLES;PLATFORM_SUPPORTS_PROFILER;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_ETC_COMPRESSION;UNITY_IPHONE_API;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;PLATFORM_IOS;UNITY_IOS;PLATFORM_IPHONE;UNITY_IPHONE;UNITY_HAS_GOOGLEVR;ENABLE_SPATIALTRACKING;ENABLE_MONO;NET_4_6;NET_UNITY_4_8;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_OSX;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_INPUT_SYSTEM;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;TEXTCORE_TEXT_ENGINE_1_5_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER;UNITY_EDITOR_ONLY_COMPILATION</DefineConstants>
     <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
   </PropertyGroup>
   <PropertyGroup>
@@ -38,7 +38,7 @@
     <UnityProjectGeneratorVersion>2.0.23</UnityProjectGeneratorVersion>
     <UnityProjectGeneratorStyle>SDK</UnityProjectGeneratorStyle>
     <UnityProjectType>Editor:5</UnityProjectType>
-    <UnityBuildTarget>StandaloneOSX:2</UnityBuildTarget>
+    <UnityBuildTarget>iOS:9</UnityBuildTarget>
     <UnityVersion>6000.0.57f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
@@ -48,7 +48,70 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/6000.0.57f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/Windows/ACTkPrefsEditor.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/Editors/ACTkDetectorEditor.cs" />
     <Compile Include="Assets/TutorialInfo/Scripts/Editor/ReadmeEditor.cs" />
+    <Compile Include="Assets/Pirate_legacy/Minimalist/Editor/MinimalistClipboard.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/PropertyDrawers/ObscuredDecimalDrawer.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/Editors/TimeCheatingDetectorEditor.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/Utils/Plist.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/Editors/InjectionDetectorEditor.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/PropertyDrawers/ObscuredUIntDrawer.cs" />
+    <Compile Include="Assets/Pirate_legacy/Minimalist/Editor/MinimalistStandardEditor.cs" />
+    <Compile Include="Assets/Pirate_legacy/Minimalist/Editor/MinimalistSkyEditor.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/Demigiant/DOTweenPro/Editor/DOTweenPreviewManager.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/Editors/SpeedHackDetectorEditor.cs" />
+    <Compile Include="Assets/Pirate_legacy/Minimalist/Editor/MinimalistEditorHelper.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/Demigiant/DOTweenPro/Editor/DOTweenAnimationInspector.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/ACTkEditorGlobalStuff.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/PropertyDrawers/ObscuredStringDrawer.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/PropertyDrawers/ObscuredQuaternionDrawer.cs" />
+    <Compile Include="Assets/Pirate_legacy/Editor/DisableBitcode.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/PropertyDrawers/ObscuredVector2IntDrawer.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/PropertyDrawers/ObscuredDoubleDrawer.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/ACTkEditorGUI.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/PropertyDrawers/ObscuredBoolDrawer.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/PropertyDrawers/ObscuredVector3IntDrawer.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/AllowedAssembly.cs" />
+    <Compile Include="Assets/Pirate_legacy/99_UtillAsset/iOSHaptic/Editor/ConfigureBuild.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/ACTkPostprocessor.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/Utils/MigrateUtils.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/PropertyDrawers/ObscuredIntDrawer.cs" />
+    <Compile Include="Assets/Pirate_legacy/Minimalist/Editor/EditorGUILayoutExtended.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/Editors/WallHackDetectorEditor.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/PropertyDrawers/ObscuredULongDrawer.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/PropertyDrawers/ObscuredVector2Drawer.cs" />
+    <Compile Include="Assets/Pirate_legacy/99_UtillAsset/Toon Water URP/Editor/ToonWaterInspector.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/PropertyDrawers/ObscuredLongDrawer.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/Windows/ACTkSettings.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/PropertyDrawers/ObscuredVector3Drawer.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/PropertyDrawers/ObscuredFloatDrawer.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/Editors/ObscuredCheatingDetectorEditor.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/PropertyDrawers/ObscuredShortDrawer.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/PropertyDrawers/ObscuredPropertyDrawer.cs" />
+    <Compile Include="Assets/Pirate_legacy/Plugins/CodeStage/AntiCheatToolkit/Editor/Scripts/Windows/ACTkAssembliesWhitelist.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets/Pirate_legacy/Plugins/Demigiant/DemiLib/Core/Editor/DemiEditor.dll" />
+    <None Include="Assets/ExternalDependencyManager/Editor/1.2.186/Google.IOSResolver.dll" />
+    <None Include="Assets/FacebookSDK/Plugins/Editor/Facebook.Unity.Editor.dll" />
+    <None Include="Assets/Pirate_legacy/MaxSdk/AppLovin/Editor/Dependencies.xml" />
+    <None Include="Assets/Pirate_legacy/Plugins/Demigiant/DemiLib/Core/Editor/DemiEditor.xml" />
+    <None Include="Assets/FacebookSDK/Plugins/Editor/Dependencies.xml" />
+    <None Include="Assets/Pirate_legacy/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll" />
+    <None Include="Assets/Pirate_legacy/Plugins/Demigiant/DOTweenPro/Editor/DOTweenProEditor.XML" />
+    <None Include="Assets/Pirate_legacy/Plugins/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll" />
+    <None Include="Assets/Pirate_legacy/Firebase/Editor/FirebaseAnalytics_version-12.2.0_manifest.txt" />
+    <None Include="Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll" />
+    <None Include="Assets/ExternalDependencyManager/Editor/1.2.186/Google.PackageManagerResolver.dll" />
+    <None Include="Assets/ExternalDependencyManager/Editor/1.2.186/Google.VersionHandlerImpl.dll" />
+    <None Include="Assets/ExternalDependencyManager/Editor/external-dependency-manager_version-1.2.186_manifest.txt" />
+    <None Include="Assets/ExternalDependencyManager/Editor/1.2.186/Google.JarResolver.dll" />
+    <None Include="Assets/Pirate_legacy/Firebase/Editor/AppDependencies.xml" />
+    <None Include="Assets/Pirate_legacy/Firebase/Editor/AnalyticsDependencies.xml" />
+    <None Include="Assets/Pirate_legacy/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.XML" />
+    <None Include="Assets/Pirate_legacy/MaxSdk/Mediation/GoogleAdManager/Editor/Dependencies.xml" />
+    <None Include="Assets/Pirate_legacy/Firebase/Editor/Firebase.Editor.dll" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
@@ -547,8 +610,20 @@
       <HintPath>/Applications/Unity/Hub/Editor/6000.0.57f1/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="DemiEditor">
+      <HintPath>Assets/Pirate_legacy/Plugins/Demigiant/DemiLib/Core/Editor/DemiEditor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.YamlDotNet">
       <HintPath>Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="LibFBGManaged">
+      <HintPath>Assets/FacebookSDK/Plugins/Windows/LibFBGManaged.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Firebase.Analytics">
+      <HintPath>Assets/Pirate_legacy/Firebase/Plugins/Firebase.Analytics.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.Collections.LowLevel.ILSupport">
@@ -559,12 +634,48 @@
       <HintPath>Library/PackageCache/com.unity.ext.nunit@031a54704bff/net40/unity-custom/nunit.framework.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Google.IOSResolver">
+      <HintPath>Assets/ExternalDependencyManager/Editor/1.2.186/Google.IOSResolver.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Facebook.Unity.Editor">
+      <HintPath>Assets/FacebookSDK/Plugins/Editor/Facebook.Unity.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Firebase.App">
+      <HintPath>Assets/Pirate_legacy/Firebase/Plugins/Firebase.App.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Plastic.Antlr3.Runtime">
       <HintPath>Library/PackageCache/com.unity.collab-proxy@8f3c30ecd081/Lib/Editor/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="DemiLib">
+      <HintPath>Assets/Pirate_legacy/Plugins/Demigiant/DemiLib/Core/DemiLib.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Facebook.Unity.Settings">
+      <HintPath>Assets/FacebookSDK/Plugins/Settings/Facebook.Unity.Settings.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTweenEditor">
+      <HintPath>Assets/Pirate_legacy/Plugins/Demigiant/DOTween/Editor/DOTweenEditor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Facebook.Unity.Canvas">
+      <HintPath>Assets/FacebookSDK/Plugins/Canvas/Facebook.Unity.Canvas.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.Plastic.Newtonsoft.Json">
       <HintPath>Library/PackageCache/com.unity.collab-proxy@8f3c30ecd081/Lib/Editor/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Firebase.TaskExtension">
+      <HintPath>Assets/Pirate_legacy/Firebase/Plugins/Firebase.TaskExtension.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTweenProEditor">
+      <HintPath>Assets/Pirate_legacy/Plugins/Demigiant/DOTweenPro/Editor/DOTweenProEditor.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="log4netPlastic">
@@ -579,8 +690,44 @@
       <HintPath>Library/PackageCache/com.unity.collab-proxy@8f3c30ecd081/Lib/Editor/unityplastic.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="Google.VersionHandler">
+      <HintPath>Assets/ExternalDependencyManager/Editor/Google.VersionHandler.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Facebook.Unity">
+      <HintPath>Assets/FacebookSDK/Plugins/Facebook.Unity.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTween">
+      <HintPath>Assets/Pirate_legacy/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Google.PackageManagerResolver">
+      <HintPath>Assets/ExternalDependencyManager/Editor/1.2.186/Google.PackageManagerResolver.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Google.VersionHandlerImpl">
+      <HintPath>Assets/ExternalDependencyManager/Editor/1.2.186/Google.VersionHandlerImpl.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
       <HintPath>Library/PackageCache/com.unity.visualscripting@6279e2b7c485/Runtime/VisualScripting.Flow/Dependencies/NCalc/Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DOTweenPro">
+      <HintPath>Assets/Pirate_legacy/Plugins/Demigiant/DOTweenPro/DOTweenPro.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Google.JarResolver">
+      <HintPath>Assets/ExternalDependencyManager/Editor/1.2.186/Google.JarResolver.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="XInputDotNetPure">
+      <HintPath>Assets/FacebookSDK/Plugins/Windows/XInputDotNetPure.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Facebook.Unity.Android">
+      <HintPath>Assets/FacebookSDK/Plugins/Android/Facebook.Unity.Android.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.VisualScripting.TextureAssets">
@@ -589,6 +736,22 @@
     </Reference>
     <Reference Include="Mono.Cecil">
       <HintPath>Library/PackageCache/com.unity.nuget.mono-cecil@d6f9955a5d5f/Mono.Cecil.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Firebase.Platform">
+      <HintPath>Assets/Pirate_legacy/Firebase/Plugins/Firebase.Platform.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Google.MiniJson">
+      <HintPath>Assets/Pirate_legacy/Firebase/Plugins/Google.MiniJson.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Firebase.Editor">
+      <HintPath>Assets/Pirate_legacy/Firebase/Editor/Firebase.Editor.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Facebook.Unity.Windows">
+      <HintPath>Assets/FacebookSDK/Plugins/Windows/Facebook.Unity.Windows.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
@@ -1354,6 +1517,16 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj" />
+    <ProjectReference Include="KinoBloom.Runtime.csproj" />
+    <ProjectReference Include="ToonyColorsPro.Editor.csproj" />
+    <ProjectReference Include="SoftMask-Editor.csproj" />
+    <ProjectReference Include="ToonyColorsPro2.Demo.csproj" />
+    <ProjectReference Include="ToonyColorsPro.Demo.Editor.csproj" />
+    <ProjectReference Include="MaxSdk.Scripts.IntegrationManager.Editor.csproj" />
+    <ProjectReference Include="MaxSdk.Scripts.csproj" />
+    <ProjectReference Include="ToonyColorsPro.Runtime.csproj" />
+    <ProjectReference Include="AllIn1SpriteShaderAssembly.csproj" />
+    <ProjectReference Include="SoftMask.csproj" />
   </ItemGroup>
   <Import Project="Sdk.targets" Sdk="Microsoft.NET.Sdk" />
   <ItemGroup>

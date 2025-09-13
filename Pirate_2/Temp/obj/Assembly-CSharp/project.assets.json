@@ -1,11 +1,189 @@
 {
   "version": 3,
   "targets": {
-    ".NETStandard,Version=v2.1": {}
+    ".NETStandard,Version=v2.1": {
+      "AllIn1SpriteShaderAssembly/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/AllIn1SpriteShaderAssembly.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AllIn1SpriteShaderAssembly.dll": {}
+        }
+      },
+      "KinoBloom.Runtime/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/KinoBloom.Runtime.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KinoBloom.Runtime.dll": {}
+        }
+      },
+      "MaxSdk.Scripts/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/MaxSdk.Scripts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MaxSdk.Scripts.dll": {}
+        }
+      },
+      "MaxSdk.Scripts.IntegrationManager.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "MaxSdk.Scripts": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MaxSdk.Scripts.IntegrationManager.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MaxSdk.Scripts.IntegrationManager.Editor.dll": {}
+        }
+      },
+      "SoftMask/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/SoftMask.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SoftMask.dll": {}
+        }
+      },
+      "SoftMask-Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "SoftMask": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SoftMask-Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SoftMask-Editor.dll": {}
+        }
+      },
+      "ToonyColorsPro.Demo.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "KinoBloom.Runtime": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ToonyColorsPro.Demo.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ToonyColorsPro.Demo.Editor.dll": {}
+        }
+      },
+      "ToonyColorsPro.Editor/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "ToonyColorsPro.Runtime": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ToonyColorsPro.Editor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ToonyColorsPro.Editor.dll": {}
+        }
+      },
+      "ToonyColorsPro.Runtime/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/ToonyColorsPro.Runtime.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ToonyColorsPro.Runtime.dll": {}
+        }
+      },
+      "ToonyColorsPro2.Demo/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "dependencies": {
+          "ToonyColorsPro.Runtime": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ToonyColorsPro2.Demo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ToonyColorsPro2.Demo.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AllIn1SpriteShaderAssembly/1.0.0": {
+      "type": "project",
+      "path": "AllIn1SpriteShaderAssembly.csproj",
+      "msbuildProject": "AllIn1SpriteShaderAssembly.csproj"
+    },
+    "KinoBloom.Runtime/1.0.0": {
+      "type": "project",
+      "path": "KinoBloom.Runtime.csproj",
+      "msbuildProject": "KinoBloom.Runtime.csproj"
+    },
+    "MaxSdk.Scripts/1.0.0": {
+      "type": "project",
+      "path": "MaxSdk.Scripts.csproj",
+      "msbuildProject": "MaxSdk.Scripts.csproj"
+    },
+    "MaxSdk.Scripts.IntegrationManager.Editor/1.0.0": {
+      "type": "project",
+      "path": "MaxSdk.Scripts.IntegrationManager.Editor.csproj",
+      "msbuildProject": "MaxSdk.Scripts.IntegrationManager.Editor.csproj"
+    },
+    "SoftMask/1.0.0": {
+      "type": "project",
+      "path": "SoftMask.csproj",
+      "msbuildProject": "SoftMask.csproj"
+    },
+    "SoftMask-Editor/1.0.0": {
+      "type": "project",
+      "path": "SoftMask-Editor.csproj",
+      "msbuildProject": "SoftMask-Editor.csproj"
+    },
+    "ToonyColorsPro.Demo.Editor/1.0.0": {
+      "type": "project",
+      "path": "ToonyColorsPro.Demo.Editor.csproj",
+      "msbuildProject": "ToonyColorsPro.Demo.Editor.csproj"
+    },
+    "ToonyColorsPro.Editor/1.0.0": {
+      "type": "project",
+      "path": "ToonyColorsPro.Editor.csproj",
+      "msbuildProject": "ToonyColorsPro.Editor.csproj"
+    },
+    "ToonyColorsPro.Runtime/1.0.0": {
+      "type": "project",
+      "path": "ToonyColorsPro.Runtime.csproj",
+      "msbuildProject": "ToonyColorsPro.Runtime.csproj"
+    },
+    "ToonyColorsPro2.Demo/1.0.0": {
+      "type": "project",
+      "path": "ToonyColorsPro2.Demo.csproj",
+      "msbuildProject": "ToonyColorsPro2.Demo.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETStandard,Version=v2.1": []
+    ".NETStandard,Version=v2.1": [
+      "AllIn1SpriteShaderAssembly >= 1.0.0",
+      "KinoBloom.Runtime >= 1.0.0",
+      "MaxSdk.Scripts >= 1.0.0",
+      "MaxSdk.Scripts.IntegrationManager.Editor >= 1.0.0",
+      "SoftMask >= 1.0.0",
+      "SoftMask-Editor >= 1.0.0",
+      "ToonyColorsPro.Demo.Editor >= 1.0.0",
+      "ToonyColorsPro.Editor >= 1.0.0",
+      "ToonyColorsPro.Runtime >= 1.0.0",
+      "ToonyColorsPro2.Demo >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/jungwanchoi/.nuget/packages/": {}
@@ -31,7 +209,38 @@
       "frameworks": {
         "netstandard2.1": {
           "targetAlias": "netstandard2.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/AllIn1SpriteShaderAssembly.csproj": {
+              "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/AllIn1SpriteShaderAssembly.csproj"
+            },
+            "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/KinoBloom.Runtime.csproj": {
+              "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/KinoBloom.Runtime.csproj"
+            },
+            "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/MaxSdk.Scripts.csproj": {
+              "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/MaxSdk.Scripts.csproj"
+            },
+            "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/MaxSdk.Scripts.IntegrationManager.Editor.csproj": {
+              "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/MaxSdk.Scripts.IntegrationManager.Editor.csproj"
+            },
+            "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/SoftMask-Editor.csproj": {
+              "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/SoftMask-Editor.csproj"
+            },
+            "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/SoftMask.csproj": {
+              "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/SoftMask.csproj"
+            },
+            "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Demo.Editor.csproj": {
+              "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Demo.Editor.csproj"
+            },
+            "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Editor.csproj": {
+              "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Editor.csproj"
+            },
+            "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Runtime.csproj": {
+              "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro.Runtime.csproj"
+            },
+            "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro2.Demo.csproj": {
+              "projectPath": "/Users/jungwanchoi/Desktop/Pirate_2/Pirate_2/ToonyColorsPro2.Demo.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
