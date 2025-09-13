@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "4082106121",
+    "project_id": "pirateio-b1003",
+    "storage_bucket": "pirateio-b1003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4082106121:android:e772110ace277536ae1dd8",
+        "android_client_info": {
+          "package_name": "com.Sept09.Pirateio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrMhWJv6CajI8TRCsLtlGlJHQsfOIowwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
